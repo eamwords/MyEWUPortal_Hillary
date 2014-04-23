@@ -1,0 +1,96 @@
+/* Masthead */
+
+article {
+	display: inline;
+}
+
+body {
+	background: url("../img/xv_@2x.png");
+}
+
+header {
+	position: relative;
+}
+ 
+header h1 {
+	font-family: 'Shadows Into Light', cursive;
+	position: absolute;
+	left: 48px;
+	bottom: 0;
+	font-size: 5em;
+	color: pink;
+}
+ 
+ h2 {
+
+	font-family: 'Balthazar', serif;
+	color: tan;
+
+ }
+
+ h3 {
+
+	font-family: 'Maven Pro', sans-serif;
+	color: #686262;
+
+}
+
+p {
+
+	font-family: 'Sniglet', cursive;
+	color: #000000;
+
+}
+
+/* Nav */
+
+.top-bar {
+	background: url('../img/retina_wood.png');
+
+}
+
+.top-bar-section ul {
+
+	background: url('../img/retina_wood.png');
+
+}
+
+.tabs dd > a {
+background: url('../img/retina_wood.png');
+
+}
+
+/*Column 1 Styling*/
+
+.tabs-content {
+
+padding: 10px;
+border-top: none;
+border: 1px solid;
+
+}
+
+/*Column 2 Styling*/
+
+.panel.callout {
+background: pink;
+padding: 30px;
+}
+
+
+
+
+/* Modal */
+.reveal-modal-bg { 
+ background: rgba(180, 109, 109, 0.62);
+}
+
+/*Footer*/
+
+.container_footer li {
+	display: inline;
+	padding :10px;
+	vertical-align: center;
+
+
+}
